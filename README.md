@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shristi-rumsan
-- 👀 I’m interested in Project MAanagement 
+- 👀 I’m interested in Project Management 
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shristi.khayargoli@rumsan.com
